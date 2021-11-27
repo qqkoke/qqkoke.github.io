@@ -17,7 +17,6 @@ body {
   height: 60px;
   background: none;
   border: 4px solid;
-  color: #3498db;
   font-weight: 700;
   text-transform: uppercase;
   cursor: pointer;
@@ -25,8 +24,42 @@ body {
   position: relative;
 }
 
-a {
+.btn1{
   color: #3498db;
+}
+
+.btn2{
+  color: #77de76;
+}
+
+.btn3 {
+  color: #d5de76;
+}
+
+.btn4{
+  color: #e84160;
+}
+
+.a1 {
+  color: #3498db;
+  text-decoration: none;
+  font-family: 'Carter One', cursive;
+}
+
+.a2 {
+  color: #77de76;
+  text-decoration: none;
+  font-family: 'Carter One', cursive;
+}
+
+.a3 {
+  color: #d5de76;
+  text-decoration: none;
+  font-family: 'Carter One', cursive;
+}
+
+.a4 {
+  color: #e84160;
   text-decoration: none;
   font-family: 'Carter One', cursive;
 }
